@@ -4,6 +4,8 @@ A modern Android application built with Jetpack Compose for tracking employee pu
 
 ## 🚀 Features
 
+
+https://github.com/user-attachments/assets/b05cdcff-c763-46dc-b46e-e2e86d5df051
 ### Authentication
 - **User Registration & Login**: Secure local authentication with username/password
 - **Session Management**: Persistent login state using SharedPreferences
@@ -291,12 +293,6 @@ The app implements an intelligent screen locking mechanism:
 - Timer interval is set to 10 minutes (configurable in `PunchInTimer.kt`)
 - Coach mark system is fully customizable and reusable
 - Success messages display for 3 seconds, error messages for 4 seconds
-
-  
-
-https://github.com/user-attachments/assets/b05cdcff-c763-46dc-b46e-e2e86d5df051
-
-
 
 ## 🔄 Future Enhancements
 
