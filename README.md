@@ -292,6 +292,12 @@ The app implements an intelligent screen locking mechanism:
 - Coach mark system is fully customizable and reusable
 - Success messages display for 3 seconds, error messages for 4 seconds
 
+  
+
+https://github.com/user-attachments/assets/b05cdcff-c763-46dc-b46e-e2e86d5df051
+
+
+
 ## 🔄 Future Enhancements
 
 Potential improvements for future versions:
